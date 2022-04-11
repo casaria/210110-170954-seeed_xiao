@@ -1,0 +1,112 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/include",
+                "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/src",
+                "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/.pio/libdeps/seeed_xiao/SerialTransfer/src",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/Wire",
+                "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/.pio/libdeps/seeed_xiao/DallasTemperature",
+                "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/.pio/libdeps/seeed_xiao/OneWire",
+                "C:/Users/casaria3/.platformio/packages/framework-cmsis/CMSIS/Include",
+                "C:/Users/casaria3/.platformio/packages/framework-cmsis-atmel/CMSIS/Device/ATMEL",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/cores/arduino",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/cores/arduino/TinyUSB",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/cores/arduino/TinyUSB/Adafruit_TinyUSB_ArduinoCore",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/cores/arduino/TinyUSB/Adafruit_TinyUSB_ArduinoCore/tinyusb/src",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/variants/XIAO_m0",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/Adafruit_ZeroDMA",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/Adafruit_ZeroDMA/utility",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/SPI",
+                "C:/Users/casaria3/.platformio/lib/ArduinoJson/src",
+                "C:/Users/casaria3/.platformio/lib/NTPClient_ID551",
+                "C:/Users/casaria3/.platformio/lib/PubSubClient/src",
+                "C:/Users/casaria3/.platformio/lib/TFT_eSPI",
+                "C:/Users/casaria3/.platformio/lib/Time_ID44",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/EnergySaving/src",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/FlashStorage/src",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/HID",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/I2S/src",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/LoRaWan",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/Seeed_Arduino_LCD",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/SoftwareSerial",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/TimerTC3",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/TimerTCC0",
+                "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/USBHost/src",
+                "C:/Users/casaria3/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/include",
+                    "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/src",
+                    "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/.pio/libdeps/seeed_xiao/SerialTransfer/src",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/Wire",
+                    "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/.pio/libdeps/seeed_xiao/DallasTemperature",
+                    "C:/Users/casaria3/OneDrive/Documents/PLATFORMIO/Projects/210110-170954-seeed_xiao/.pio/libdeps/seeed_xiao/OneWire",
+                    "C:/Users/casaria3/.platformio/packages/framework-cmsis/CMSIS/Include",
+                    "C:/Users/casaria3/.platformio/packages/framework-cmsis-atmel/CMSIS/Device/ATMEL",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/cores/arduino",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/cores/arduino/TinyUSB",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/cores/arduino/TinyUSB/Adafruit_TinyUSB_ArduinoCore",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/cores/arduino/TinyUSB/Adafruit_TinyUSB_ArduinoCore/tinyusb/src",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/variants/XIAO_m0",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/Adafruit_ZeroDMA",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/Adafruit_ZeroDMA/utility",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/SPI",
+                    "C:/Users/casaria3/.platformio/lib/ArduinoJson/src",
+                    "C:/Users/casaria3/.platformio/lib/NTPClient_ID551",
+                    "C:/Users/casaria3/.platformio/lib/PubSubClient/src",
+                    "C:/Users/casaria3/.platformio/lib/TFT_eSPI",
+                    "C:/Users/casaria3/.platformio/lib/Time_ID44",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/EnergySaving/src",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/FlashStorage/src",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/HID",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/I2S/src",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/LoRaWan",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/Seeed_Arduino_LCD",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/SoftwareSerial",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/TimerTC3",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/TimerTCC0",
+                    "C:/Users/casaria3/.platformio/packages/framework-arduino-samd-seeed/libraries/USBHost/src",
+                    "C:/Users/casaria3/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                "ARDUINO_SAMD_ZERO",
+                "__SAMD21__",
+                "__SAMD21G18A__",
+                "ARM_MATH_CM0PLUS",
+                "SEEED_XIAO_M0",
+                "ARDUINO=10805",
+                "F_CPU=48000000L",
+                "USBCON",
+                "USB_VID=0x2886",
+                "USB_PID=0x802F",
+                "USB_PRODUCT=\"Seeeduino XIAO\"",
+                "USB_MANUFACTURER=\"Seeed\"",
+                "ARDUINO_ARCH_SAMD",
+                "USB_CONFIG_POWER=100",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/casaria3/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mcpu=cortex-m0plus",
+                "-mthumb",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
